@@ -10,7 +10,7 @@ Este projeto consiste em um formulário web completo de cadastro de pessoas, cri
 - Mensagens com alertas (SweetAlert)
 - Edição e exclusão de cadastros
 - Lista de pessoas atualizada em tempo real
-- Layout responsivo e moderno
+- Layout responsivo
 
 ## ✅ Quadro de Casos de Teste
 
